@@ -1,0 +1,86 @@
+{
+  "pins" : [
+    {
+      "identity" : "asynchrone",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/reddavis/Asynchrone",
+      "state" : {
+        "revision" : "657bfed52f2cad2e4697f1e3548796f563b20308",
+        "version" : "0.20.0"
+      }
+    },
+    {
+      "identity" : "launchatlogin",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sindresorhus/LaunchAtLogin",
+      "state" : {
+        "revision" : "e8171b3e38a2816f579f58f3dac1522aa39efe41",
+        "version" : "4.2.0"
+      }
+    },
+    {
+      "identity" : "nanoleaf",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/reddavis/Nanoleaf",
+      "state" : {
+        "revision" : "c1b5dc19402eba5fa4b3b2f4e184fb567f9caa8c",
+        "version" : "0.2.0"
+      }
+    },
+    {
+      "identity" : "papyrus",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/reddavis/Papyrus.git",
+      "state" : {
+        "revision" : "4fd8f5e3e0f233c4b91e053fc4d5574e1ac500fc",
+        "version" : "0.10.0"
+      }
+    },
+    {
+      "identity" : "redux",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/reddavis/RedUx",
+      "state" : {
+        "revision" : "69f6e076e5dbe1ebc66154d54fdab90f16d310ec",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "swift-custom-dump",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pointfreeco/swift-custom-dump.git",
+      "state" : {
+        "revision" : "21ec1d717c07cea5a026979cb0471dd95c7087e7",
+        "version" : "0.5.0"
+      }
+    },
+    {
+      "identity" : "toolbox",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/reddavis/Toolbox",
+      "state" : {
+        "revision" : "f9df3ff5a1ac8d97b81153b8fd1f5c6c4aee8ac1",
+        "version" : "0.9.0"
+      }
+    },
+    {
+      "identity" : "valet",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/square/Valet",
+      "state" : {
+        "revision" : "2bf3329055f5d71d42a12801dd69d1d770fafa5e",
+        "version" : "4.1.2"
+      }
+    },
+    {
+      "identity" : "xctest-dynamic-overlay",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pointfreeco/xctest-dynamic-overlay",
+      "state" : {
+        "revision" : "ef8e14e7ce1c0c304c644c6ba365d06c468ded6b",
+        "version" : "0.3.3"
+      }
+    }
+  ],
+  "version" : 2
+}

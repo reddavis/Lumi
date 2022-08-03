@@ -1,0 +1,9 @@
+output_dir: MeetingLights/Sources/UI/Sources/Generated/
+
+## Assets
+xcassets:
+  inputs:
+    - MeetingLights/Sources/UI/Sources/Supporting Files/Assets.xcassets
+  outputs:
+    templateName: swift5
+    output: XCAssets+Generated.swift
